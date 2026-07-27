@@ -66,7 +66,7 @@ var style_AlternativeFoundationGrantees_0 = function(feature, resolution){
     };
     
     var labelText = ""; 
-    var value = feature.get("Total Organizations");
+    var value = feature.get("Number of Grantees Serving This ZIP");
     var labelFont = "10px, sans-serif";
     var labelFill = "#000000";
     var bufferColor = "";
